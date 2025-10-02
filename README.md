@@ -4,3 +4,5 @@ disini saya akan menunjukkan progress untuk membuat web menggunakan CSS dasar
 
 # Langkah 1
 Disini saya akan membuat dokumen HTML sebagai berikut
+
+<img src="Langkah 1.png" alt="Tutorial" width="400">
